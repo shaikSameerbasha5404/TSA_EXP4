@@ -13,8 +13,8 @@ To implement ARMA model in python.
 
 # PROGRAM:
 ```
-Developed by: Challa Sandeep
-Reg No: 212221240011
+Developed by: Sahik Sameer Basha
+Reg No: 212222240093
 ```
 ~~~
 from pandas import read_csv
